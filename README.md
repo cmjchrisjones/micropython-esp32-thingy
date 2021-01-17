@@ -34,3 +34,16 @@ WIFI_PASSWORD='YourNetworkPassword'
 AN_API__CLIENT_ID='athingymebob'
 AN_API_CLIENT_SECRET='blahblahblah'
 ```
+
+![image](https://user-images.githubusercontent.com/3969086/104858972-c2f83400-591a-11eb-9a6a-741db2d6b1fc.png)
+
+![image](https://user-images.githubusercontent.com/3969086/104858978-d73c3100-591a-11eb-9880-28bbc5aa1e5e.png)
+
+![image](https://user-images.githubusercontent.com/3969086/104859003-defbd580-591a-11eb-8165-9eb91cfc24e6.png)
+
+![image](https://user-images.githubusercontent.com/3969086/104859251-d35cde80-591b-11eb-98e7-0176a2506623.png)
+
+![image](https://user-images.githubusercontent.com/3969086/104859254-da83ec80-591b-11eb-8692-93bf3ac53a35.png)
+
+![image](https://user-images.githubusercontent.com/3969086/104859258-e1aafa80-591b-11eb-9a2a-053edda70e76.png)
+
